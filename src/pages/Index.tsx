@@ -12,12 +12,12 @@ const Index = () => {
       <About />
       <Projects />
       <Contact />
-      
+
       {/* Footer */}
       <footer className="py-8 bg-muted/50 border-t border-border/10">
         <div className="container mx-auto px-6 text-center">
           <p className="text-muted-foreground">
-            © 2024 Full Stack Developer. Built with React, TypeScript & Tailwind CSS.
+            © 2025 Created with love by Rutuja.
           </p>
         </div>
       </footer>
